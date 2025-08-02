@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Samet Çiftçi</h1>
 <p align="center">
-  <em>🌾 Soyadım gibi “Çiftçi”yim. Fikir ekerim, kodla büyütürüm. 👨‍💻</em>
+  <em>🌾 “Benim toprağımda proje büyür, fikir yeşerir.” 👨‍💻</em>
 </p>
 
 <p align="center">
@@ -17,8 +17,6 @@
   - Python ile Veri Analizi  
   - React & Node.js ile Web/Mobil Geliştirme  
   - Go diliyle VPN altyapıları  
-- 🛠 Her projeyi adım adım, dokümantasyonlu ve sistemli inşa ederim.  
-- 🎯 Hedefim: Akıllı, güvenli ve ölçeklenebilir yazılımlar üretmek.
 
 ---
 
