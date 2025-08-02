@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Çiftçi</h1>
+<h1 align="center">Hi 👋, I'm Samet ÇİFTCİ</h1>
 <p align="center">
   <em>Software Engineering student & full-stack / AI / VPN / automation enthusiast.</em>
 </p>
