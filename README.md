@@ -1,17 +1,7 @@
 <h1 align="center">Merhaba, ben Samet Çiftci</h1>
-<p align="center"><em>Full-Stack • Yapay Zeka • VPN • Veri Bilimi</em></p>
+<p align="center"><em>Full-Stack • Yapay Zeka • Veri Bilimive Analitik </em></p>
 
----
 
-## 🧑‍💻 Hakkımda
-
-- 🎓 Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim.  
-- 👨‍💻 Full-stack web & mobil uygulamalar geliştiriyorum.  
-- 🤖 Yapay zeka & veri analizi sistemleri üzerine çalışıyorum.  
-- 🔐 Go diliyle güvenli VPN altyapıları geliştiriyorum.  
-- 📌 Her satırı neden yazdığımı bilerek kodlarım.  
-
----
 
 ## 🛠️ Kullandığım Teknolojiler
 
