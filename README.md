@@ -1,79 +1,70 @@
-<h1 align="center">Merhaba 👋, Ben Samet Çiftçi</h1>
-<p align="center">
-  <em>🌾 “Benim toprağımda proje büyür, fikir yeşerir.” 👨‍💻</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F779&center=true&vCenter=true&width=435&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisiyim;Yapay+Zeka+ve+Veri+Bilimi+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;Full-Stack+projeler+geli%C5%9Ftiriyorum;G%C3%BCvenli+VPN+%C3%A7%C3%B6z%C3%BCmleri+in%C5%9Fa+ediyorum" alt="Typing SVG" />
-</p>
+<h1 align="center">Merhaba, ben Samet Çiftci</h1>
+<p align="center"><em>Full-Stack • Yapay Zeka • VPN • Veri Bilimi</em></p>
 
 ---
 
-## 🚀 Hakkımda
+## 🧑‍💻 Hakkımda
 
-- 🎓 Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
-- 🧠 İlgi alanlarım:  
-  - Yapay Zekâ (LLM, Autoencoder, AI tabanlı analiz sistemleri)  
-  - Python ile Veri Analizi  
-  - React & Node.js ile Web/Mobil Geliştirme  
-  - Go diliyle VPN altyapıları  
+- 🎓 Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim.  
+- 👨‍💻 Full-stack web & mobil uygulamalar geliştiriyorum.  
+- 🤖 Yapay zeka & veri analizi sistemleri üzerine çalışıyorum.  
+- 🔐 Go diliyle güvenli VPN altyapıları geliştiriyorum.  
+- 📌 Her satırı neden yazdığımı bilerek kodlarım.  
 
 ---
 
-## 🔧 Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,go,postgres,mongodb,mysql,sqlite,html,css,bootstrap&theme=dark" /><br/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-AI-8B00FF?style=for-the-badge&logo=data:image/png;base64,iVB..." />
+  <img src="https://img.shields.io/badge/DeepSeek-AI-6A0DAD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</div>
+</p>
 
 ---
 
-## 💻 GitHub İstatistiklerim
+## 🚀 Öne Çıkan Projeler
+
+| Proje | Açıklama |
+|-------|----------|
+| **Sendika İletişim Merkezi** | Yapay zekâ destekli, anonim işçi-sendika iletişimi platformu |
+| **Human Motion Similarity** | MediaPipe + Autoencoder + DTW ile hareket karşılaştırma sistemi |
+| **SmartBankingSystem** | C# & SQLite tabanlı masaüstü bankacılık otomasyonu |
+| **KaçKaldı App** | AI destekli ölüm yaşı tahmini mobil uygulama |
+| **Custom VPN (Go)** | UDP + AES-256 + X25519 ile yazılmış güvenli VPN altyapısı |
+
+---
+
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SAME1T&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAME1T&layout=compact&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SAME1T&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAME1T&layout=compact&theme=tokyonight" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAME1T&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAME1T&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-## 🌟 Öne Çıkan Projelerim
-
-<p>
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40" /> 
-  <strong>Sendika İletişim Merkezi</strong>: Anonim iletişim, aktiflik tabanlı aidat, yapay zekâ destekli mobil + web sistem.
-</p>
-<p>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40" />
-  <strong>Human Motion Similarity</strong>: MediaPipe + Autoencoder + DTW ile hareket karşılaştırma.
-</p>
-<p>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="40" />
-  <strong>SmartBanking System</strong>: C# ile SQLite tabanlı bankacılık otomasyonu.
-</p>
-<p>
-  <img src="https://media.giphy.com/media/j3GS6CJXhLRok3v5kG/giphy.gif" width="40" />
-  <strong>KaçKaldı</strong>: AI destekli ölüm yaşı tahmin uygulaması.
-</p>
-<p>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40" />
-  <strong>Custom VPN</strong>: Go diliyle AES-256 + X25519 içeren modern VPN.
-</p>
-
----
-
-## 📬 Bana Ulaşın
+## 📬 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-%C3%A7iftci-664787252/)
 
 ---
 
-<p align="center">
-  <em>“Kodladığım her satırda, üretime katkı sunan bir çiftçiyim.”</em>  
-</p>
+<p align="center"><em>Gerçek mühendislik; mantık, disiplin ve üretimle başlar.</em></p>
