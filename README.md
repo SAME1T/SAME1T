@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samet Çiftçi</h1>
+<h1 align="center">Hi 👋, I'm Samet ÇİFTCİ</h1>
 <p align="center">
-  <em>🌾 Like my surname “Çiftçi” (Farmer), I cultivate ideas and grow real-world software solutions — one repo at a time.</em>
+  <em>🌾 Like my surname “Çiftci” (Farmer), I cultivate ideas and grow real-world software solutions — one repo at a time.</em>
 </p>
 
 ---
