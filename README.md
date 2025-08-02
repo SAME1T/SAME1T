@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben **Samet Çiftçi**</h1>
-<p align="center"><em>Full‑Stack • Yapay Zekâ • Veri Bilimi • VPN</em></p>
+<p align="center"><em>Full‑Stack • Yapay Zekâ • Veri Bilimi • AĞ </em></p>
 
 ---
 
