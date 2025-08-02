@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben **Samet Çiftçi**</h1>
+<h1 align="center">Merhaba, ben Samet ÇİFTCİ</h1>
 <p align="center"><em>Full‑Stack • Yapay Zekâ • Veri Bilimi • AĞ </em></p>
 
 ---
@@ -7,7 +7,7 @@
 
 - 🎓 **Fırat Üniversitesi**, Yazılım Mühendisliği öğrencisiyim.  
 - 👨‍💻 **Python**, **Go**, **JavaScript** ile full-stack & AI & data projeleri inşa ediyorum.  
-- 🤖 **Veri analizi**, LLM entegrasyonları (**ChatGPT**, **Gemini**, **DeepSeek**) ile akıllı sistemler geliştiriyorum.  
+- 🤖 **Veri analizi**, insan hareketleriyle model eğitimi  ve bunların projelere entegrelerinde çalışıyorum.
 - 🔐 **Go** ile modern VPN altyapıları (AES‑256, X25519) geliştiriyorum.  
 
 ---
