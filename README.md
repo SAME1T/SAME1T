@@ -49,7 +49,6 @@
 | **Sendika Communication Platform** | AI-assisted anonymous worker-union mobile + web platform |
 | **Human Motion Similarity** | Autoencoder + MediaPipe + DTW-based motion analysis |
 | **SmartBankingSystem** | C# & SQLite-based GUI banking automation |
-| **KaçKaldı App** | Mobile app that predicts estimated death age with AI |
 | **Custom VPN (Go)** | High-security VPN with AES-256 & X25519 using Go
 
 ---
