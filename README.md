@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samet ÇİFTCİ</h1>
-<p align="center"><em>Full‑Stack • Artificial Intelligence • Data Science • Networking</em></p>
+<p align="center"><em> İmage Processing • Artificial Intelligence • Data Science </em></p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SAME1T&theme=darkhub&column=7&margin-w=10&no-bg=true" />
