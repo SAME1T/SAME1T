@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samet ÇİFTCİ 👋</h1>
+<h1 align="center">Hi there! I'm Samet ÇİFTCİ 👋</h1>
 <h3 align="center">Software Engineer | AI & Data Science | Backend Developer</h3>
 
 <div align="center">
@@ -7,18 +7,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 A Little About Me
 
-- 💼 Currently working as an **Intern Engineer at Microsoft**.
-- 🎓 Studying **Software Engineering** at **Fırat University**.
-- 🏦 Experienced in enterprise backend development, having worked with **Mainframe, PL/I, and DB2** during my time at **Halkbank**.
-- 🤖 Developing AI and machine learning models (such as **EndoPolyp** and **Human Motion Similarity**) using **PyTorch**, **MediaPipe**, and **scikit-learn**.
-- 🏗️ Passionate about building robust, scalable applications utilizing **C# (.NET 9), Clean Architecture**, and **Go**[cite: 1].
-- 🌱 Currently learning **German** and continuously exploring advanced database management. 
+- 🎓 I'm currently studying **Software Engineering** at **Fırat University**[cite: 1].
+- 💼 I work as an **Intern Engineer at Microsoft**[cite: 1].
+- 🏦 I have solid enterprise experience from my time at **Halkbank**, where I worked on Mainframe systems (**PL/I, JCL, CA7, DB2**) and backend development using **.NET** and **Azure CI/CD** pipelines[cite: 1].
+- 🤖 I love building intelligent systems! I'm currently developing a **Datacenter RAG Assistant** in Python, alongside my past work in medical image segmentation and human motion similarity[cite: 1].
+- 🏗️ I really enjoy designing scalable, clean architectures with **C# (.NET 9)** and **Go**[cite: 1].
+- 🌍 Outside of coding, I'm actively studying for my Goethe-Zertifikat B1 in German, and you might catch me doing a flight simulator run!
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Tech Stack
 
 **Languages & Core:**  
 <p>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 **AI & Data Science:**  
@@ -34,42 +34,40 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-**Backend & Databases:**  
+**Backend, Mainframe & Databases:**  
 <p>
   <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/JCL_%7C_CA7-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**Tools & API:**  
+**Tools & DevOps:**  
 <p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 What I've Been Building
 
 | Project | Description | Technologies |
 |--------|-------------|-------------|
-| **[NovaBank](#)** | Digital Banking Platform built with Clean Architecture, Domain-Driven Design, and JWT auth[cite: 1]. | `.NET 9`, `C#`, `PostgreSQL`[cite: 1] |
-| **[EndoPolyp](#)** | Medical Image Segmentation model for detecting polyp regions using pre-trained backbones and Gradio[cite: 1]. | `PyTorch`, `timm`, `Gradio`[cite: 1] |
-| **[Crop Recommendation](#)** | ML system for agricultural crop prediction based on soil and climate data, featuring a Streamlit UI[cite: 1]. | `scikit-learn`, `Streamlit`[cite: 1] |
-| **[Custom VPN](#)** | High-security VPN protocol implementation with X25519 key exchange and AES-256-GCM encryption[cite: 1]. | `Go`, `UDP`, `Cryptography`[cite: 1] |
-| **[Human Motion Similarity](#)** | Autoencoder & MediaPipe based analysis for detecting motion anomalies and similarity[cite: 1]. | `Python`, `MediaPipe`, `DTW`[cite: 1] |
-| **[Sendika Platform](#)** | Full-stack union communication platform with an active AI chatbot and role-based access[cite: 1]. | `Node.js`, `React Native`[cite: 1] |
-
-*(Note: Replace the `#` links with the actual repository URLs)*
+| **Sendika Platform** | Full-stack union communication platform featuring an active AI chatbot, role-based access, and a dynamic point system for members[cite: 1]. | `Node.js`, `React Native`, `PostgreSQL`[cite: 1] |
+| **NovaBank** | Digital Banking Platform built from scratch using Clean Architecture, Domain-Driven Design, and JWT auth[cite: 1]. | `.NET 9`, `C#`, `PostgreSQL`[cite: 1] |
+| **Datacenter RAG Assistant** | A Python-based Retrieval-Augmented Generation assistant designed for querying and managing datacenter documentation. | `Python`, `LLMs`, `RAG` |
+| **EndoPolyp** | Medical Image Segmentation model for detecting polyp regions using pre-trained backbones, enhanced with a Gradio interface[cite: 1]. | `PyTorch`, `timm`, `Gradio`[cite: 1] |
+| **Custom VPN** | High-security VPN protocol implementation featuring X25519 key exchange, AES-256-GCM encryption, and custom binary packets[cite: 1]. | `Go`, `UDP`, `Cryptography`[cite: 1] |
+| **Human Motion Similarity** | Autoencoder & MediaPipe based analysis pipeline for detecting motion anomalies and evaluating similarity with DTW[cite: 1]. | `Python`, `MediaPipe`, `DTW`[cite: 1] |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SAME1T&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
@@ -78,7 +76,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect!
 
 <div align="center">
   <a href="mailto:scsametciftci@gmail.com">
